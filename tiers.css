@@ -1,5 +1,5 @@
 body {
-	background-color: #333;
+	background-color: #262626;
 	font-family: arial;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .tierlist div.row {
-	border: 0px solid #666;
+	border: 0px solid #000000;
 	border-top-width: 1px;
 	border-right-width: 1px;
 	display: flex;
@@ -112,7 +112,7 @@ span.item {
 
 .images {
 	display: flex;
-	border: 1px solid #666;
+	border: 1px solid #525252;
 	height: 200px;
 	overflow-y: auto;
 	flex-wrap: wrap;
