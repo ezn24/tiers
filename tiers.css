@@ -107,6 +107,8 @@ span.items {
 }
 
 span.item {
+	min-width: 100px;
+    min-height: 100px;
 	pointer-events: auto;
 }
 
