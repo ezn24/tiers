@@ -128,6 +128,7 @@ span.item {
 }
 
 img.draggable {
+	object-fit: cover;
 	cursor: grab;
 	width: 100px;
 	height: 100px;
