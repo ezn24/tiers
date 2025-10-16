@@ -1,3 +1,14 @@
+## Change i made in this repo
+- Change all the icon into [Material Desine](https://fonts.google.com/icons)
+
+- Remove some useless component(such as Title).
+
+- Change the button placement and layout to make it more user friendly
+
+- Change the Color and style to make it more seemiler the one we use to be
+
+---
+
 ### Offline Tierlist Maker
 
 This is a simple webpage that allows creating custom "[Tierlists](https://knowyourmeme.com/memes/tier-lists)".
