@@ -15,7 +15,7 @@ This is a simple webpage that allows creating custom "[Tierlists](https://knowyo
 
 I was looking for a decent app that would allow me to do that offline without uploading my images to a server or requiring an account, but I couldn't find any, so I made one myself.
 
-You can play with the latest version at [silverweed.github.io/tiers](https://silverweed.github.io/tiers), or you can download the repository and open `index.html` in your browser (in both cases, all the logic is run locally on your browser).
+You can play with the latest version at [silverweed.github.io/tiers](https://ezn24.github.io/tiers), or you can download the repository and open `index.html` in your browser (in both cases, all the logic is run locally on your browser).
 
 #### Features
 - Give a title to your tierlist
